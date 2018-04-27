@@ -4,7 +4,7 @@
 
 Une des équipes produit d'Evaneos a décidé d'améliorer une des pages du site afin d'améliorer son taux de conversion.
 Pour rappel, on appelle le taux de conversion le nombre de demande de devis opérés sur la page divisé par le nombre de sessions sur ladite page.  
-À cette fin, l'équipe a décidé d'implémenter une nouvelle fonctionnalité dont on soupçonne qu'elle pourrait considérablement améliorer l'expérience des utilisateurs. Pour s'en assurer, il a été décidé de faire fonctionner deux versions en parallèle :  
+À cette fin, l'équipe a décidé d'implémenter une nouvelle fonctionnalité dont on soupçonne qu'elle pourrait considérablement améliorer l'expérience des utilisateurs. Pour s'en assurer, il a été décidé de mettre en ligne deux versions en parallèle :  
 * une version qui contient la page **sans** la nouvelle fonctionnalité (version A)
 * une version qui contient la page **avec** la nouvelle fonctionnalité (version B)  
 
@@ -50,4 +50,4 @@ Coder une fonction python qui simule le nombre de conversions d'une page qui a 5
 
 
 **Question subsidiaire**:
-Un des membres de l'équipe propose de ne lancer que la version B, et de comparer ses performances à celles qu'a obtenu la version A précédemment. Qu'en pensez-vous?
+Plutôt que de mettre en ligne les deux versions en même temps, un membre de l'équipe propose de mettre d'abord en ligne la version A, puis de mettre en ligne la version B. Qu'en pensez-vous?
