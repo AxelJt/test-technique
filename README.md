@@ -20,15 +20,14 @@ des simulations du test.
 
 ### Approche conseillée
 
-* Qu'est-ce qu'un A/B Test : https://www.definitions-marketing.com/definition/a-b-test/  
-Reéxpliquer brièvement.  
+* Qu'est-ce qu'un A/B Test ?
 
   
 *  On peut modéliser l'expérience de conversion par [une loi binomiale](https://fr.wikipedia.org/wiki/Loi_binomiale). 
-Coder une fonction python qui simule le nombre de conversions d'une page qui a 5000 sessions sur la page et un taux de conversion en moyenne de 7%.  
+Expliquer pourquoi, puis coder une fonction python qui simule le nombre de conversions d'une page qui a 5000 sessions sur la page et un taux de conversion en moyenne de 7%.  
 
 
-* Si on répète l'expérience 10000 fois et qu'on trace l'histogramme du nombre de conversions, quelle distribution reconnait-on? Vous préciserez la moyenne et la variance de la distribution.  
+* Si on répète l'expérience 10000 fois et qu'on trace l'histogramme du nombre de conversions, quelle distribution reconnait-on? Préciser la moyenne et la variance de la distribution.  
 
 
 * En déduire la probabilité d'obtenir **375 ou plus conversions** (i.e un taux de conversion réel supérieur à 7.5%).
@@ -46,7 +45,7 @@ Coder une fonction python qui simule le nombre de conversions d'une page qui a 5
 * Tracer sur un histograme le seuil au-delà duquel on atteint la significativité statistique (toujours dans l'expérience avec 10000 sessions).
 
 
-* Tenter de répondre à la question initiale en répétant le raisonnement précédent.
+* Répondre à la question initiale.
 
 
 **Question subsidiaire**:
